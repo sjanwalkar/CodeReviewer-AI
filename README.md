@@ -251,6 +251,9 @@ Loading GRPO for demo...
 * Running on public URL: https://acb2cfa073d25ad658.gradio.live
 ```
 
+<img width="1673" height="949" alt="image" src="https://github.com/user-attachments/assets/6be6b6e6-5b85-4a1c-888e-3152f4f4f024" />
+
+
 **Demo features:**
 - Paste any code snippet
 - Select language (Python, JavaScript, Java, TypeScript, Go)
