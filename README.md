@@ -255,8 +255,7 @@ Loading GRPO for demo...
 
 Vide Demo:
 
-
-
+https://github.com/user-attachments/assets/9dc43371-392f-42da-bce1-d4a914716baa
 
 **Demo features:**
 - Paste any code snippet
