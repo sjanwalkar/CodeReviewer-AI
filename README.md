@@ -253,6 +253,10 @@ Loading GRPO for demo...
 
 <img width="1673" height="949" alt="image" src="https://github.com/user-attachments/assets/6be6b6e6-5b85-4a1c-888e-3152f4f4f024" />
 
+Vide Demo:
+
+
+
 
 **Demo features:**
 - Paste any code snippet
